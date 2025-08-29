@@ -1,0 +1,12 @@
+- VERBOS HTTP
+    - GET: Obter dados.
+    - POST: Gravar dados.
+    - PUT: Atualizar dados.
+    - DELETE: -
+
+- Cheque os plugins nececssarios esta instalado na IDE
+    
+- Caso a porta 8080 não esteja disponivel troque a porta em resources/application.properties
+ usando o atributo server.port = <escolha_uma_porta>
+
+ -ar a classe <classe>Controller
