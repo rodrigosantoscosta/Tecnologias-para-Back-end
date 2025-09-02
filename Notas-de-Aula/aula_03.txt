@@ -1,0 +1,17 @@
+Aula 03 - 02/09/2025
+
+- Fazer fork do repo https://github.com/rodrigofujioka/tecback/
+- Explicando  o pom.xml e sua sintaxe, importar dependencias.
+
+-  mais uma vez a pegadinha do UPDATE dos verbos HTTP(humor e piadas vai cair na prova)
+
+- Notações para getters, setters e construtores na classe model   @Getter
+    @Setter
+    @NoArgsConstructor
+    @AllArgsConstructor
+
+- criando classe num pacackge model 
+- criando metodos no controller
+    @PostMapping para enviar dados.
+    @GetMapping para receber dados.
+IRL da interface do swagger: http://localhost:8080/swagger-ui/index.html
