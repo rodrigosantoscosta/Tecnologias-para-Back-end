@@ -1,0 +1,13 @@
+09-09-2025
+Atualizou a branch master do projeto.
+Usando a branch a semestre/20252
+-Fazer os packages service e repository
+- Modelagem da classe Filme
+@Table(name =<nome>) notação
+- Resolver dependecias usando o utilitario do Maven(simbolo M do lado direito da IDE)
+
+- não é bom usar a notação @AutoWired(tenho que pesquisar)
+
+Fluxo model -> repository -> service - > controller
+-swagger: post - inserindo um objeto
+- resources: atualizando propriedades
