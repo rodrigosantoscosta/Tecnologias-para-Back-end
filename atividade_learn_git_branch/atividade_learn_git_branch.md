@@ -20,6 +20,8 @@ git commit
 git commit
 ```
 
+![alt text](image.png)
+
 ### Push & Pull - 8: Main bloqueado
 
 ```bash
@@ -29,3 +31,4 @@ git checkout main
 git reset C1
 git checkout feature
 ```
+![alt text](image-1.png)

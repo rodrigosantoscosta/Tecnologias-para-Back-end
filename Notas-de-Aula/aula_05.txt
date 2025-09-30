@@ -1,0 +1,19 @@
+aula_05.txt
+- Explicou o que vai cair na prova, focou nas anotaçõese e seus esteriotipos, e as classes 
+do Spring: model -> repository(memorizar a sintaxe do extends JpaRespostory do spring data) 
+
+-> memorizar a anotação @service
+-> Controller 
+- nao tem certeza 0se vai cair Lombok na prova
+
+- a piadoca do UPDATE de novo
+
+- Verbos HTTP
+
+@RequestMappin : Mapeamento das requisições para classe
+@RestController: Possibilita a comunicação REST para a classes
+
+*****IMPORTANTE*****
+*** Primeira entrega do projeto ele quer que cada integrante do grupo tenha feito pelo menos um RestController. 
+Apenas uma pessoa envia no Classroom****
+
