@@ -10,8 +10,8 @@ Aula 03 - 02/09/2025
     @NoArgsConstructor
     @AllArgsConstructor
 
-- criando classe num pacackge model 
+- criando classe num package model 
 - criando metodos no controller
     @PostMapping para enviar dados.
     @GetMapping para receber dados.
-IRL da interface do swagger: http://localhost:8080/swagger-ui/index.html
+URL da interface do swagger: http://localhost:8080/swagger-ui/index.html
